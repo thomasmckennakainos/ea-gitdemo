@@ -1,0 +1,16 @@
+/Users/shaung/ea-gitdemo/src/main/java/com/kainos/ea/dao/SalesEmployeeDao.java
+/Users/shaung/ea-gitdemo/src/main/java/com/kainos/ea/resources/WebService.java
+/Users/shaung/ea-gitdemo/src/main/java/com/kainos/ea/service/EmployeeService.java
+/Users/shaung/ea-gitdemo/src/main/java/com/kainos/ea/dao/EmployeeDao.java
+/Users/shaung/ea-gitdemo/src/main/java/com/kainos/ea/util/DatabaseConnector.java
+/Users/shaung/ea-gitdemo/src/main/java/com/kainos/ea/service/SalesEmployeeService.java
+/Users/shaung/ea-gitdemo/src/main/java/com/kainos/ea/model/EmployeeRequest.java
+/Users/shaung/ea-gitdemo/src/main/java/com/kainos/ea/model/Employee.java
+/Users/shaung/ea-gitdemo/src/main/java/com/kainos/ea/WebServiceConfiguration.java
+/Users/shaung/ea-gitdemo/src/main/java/com/kainos/ea/validator/EmployeeValidator.java
+/Users/shaung/ea-gitdemo/src/main/java/com/kainos/ea/exception/BankNumberLengthException.java
+/Users/shaung/ea-gitdemo/src/main/java/com/kainos/ea/exception/SalaryTooLowException.java
+/Users/shaung/ea-gitdemo/src/main/java/com/kainos/ea/WebServiceApplication.java
+/Users/shaung/ea-gitdemo/src/main/java/com/kainos/ea/controller/HR.java
+/Users/shaung/ea-gitdemo/src/main/java/com/kainos/ea/model/SalesEmployee.java
+/Users/shaung/ea-gitdemo/src/main/java/com/kainos/ea/exception/DatabaseConnectionException.java
