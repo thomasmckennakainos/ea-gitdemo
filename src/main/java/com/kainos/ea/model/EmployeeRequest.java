@@ -3,8 +3,6 @@ package com.kainos.ea.model;
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-import java.io.Serializable;
-
 public class EmployeeRequest {
     private float salary;
     private String fname;
